@@ -1,0 +1,67 @@
+body {
+    background-image:url('Bilder/Bedehusute2.png') ;
+    background-size: cover;
+}
+header{
+    display: flex;
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+}
+#main {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    margin: 5px auto;
+    padding: 25px;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 15px;
+    
+}
+footer{
+    position:absolute;
+        display: flex;
+        width: 100%;
+        bottom: 0px;
+        justify-content:center;
+        
+}
+#historie{
+    background-color: white;
+    opacity: 0.8;
+    width: 30%; 
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 50px;
+    padding-top: 3px;
+    padding-left: 5px;
+}
+#kontaktinformasjon{
+    background-color: white;
+    opacity: 0.8;
+    width: 210px;
+    height: 750px;
+    position: relative;
+    top: -300px;
+    margin-left: auto;
+    margin-right: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#bilderinne{
+    position: relative;
+    top: -700px;
+    background-color: white;
+    width: 850px;
+    height: 980px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+    
